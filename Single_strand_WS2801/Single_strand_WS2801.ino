@@ -62,7 +62,7 @@ void loop() {
   // Some example procedures showing how to display to the pixels
   //add lights or change colors as you want
   strip.setPixelColor(0, strip.Color(127, 50, 50));
-  strip.setPixelColor(1, strip.Color(50, 127, 200));
+  strip.setPixelColor(1, strip.Color(50, 127, 100));
   strip.show();
 }
 
